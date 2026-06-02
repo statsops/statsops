@@ -1,4 +1,4 @@
-<img width="24" height="24" alt="apacheairflow" src="https://github.com/user-attachments/assets/d3609c42-2935-4dc1-a8a9-8bab0b987177" />## Hi there 👋
+## Hello, world!
 
 <!--
 **statsops/statsops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
